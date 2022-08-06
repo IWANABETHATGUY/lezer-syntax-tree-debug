@@ -6,5 +6,5 @@ export default {
     file: 'dist/index.js',
     format: 'esm'
   },
-  plugins: [typescript()]
+  plugins: [typescript({})]
 };
