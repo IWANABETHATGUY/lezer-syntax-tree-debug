@@ -1,8 +1,9 @@
 {
   "name": "lezer-syntax-tree-debug",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "type": "module",
+  "main": "dist/index.js",
   "module": "dist/index.js",
   "scripts": {
     "build": "rollup -c"
